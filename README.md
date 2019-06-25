@@ -225,7 +225,7 @@ Full composer.json example:
                 "Fix: Update stock item on product save": "https://raw.githubusercontent.com/ConvertGroupsAS/magento2-patches/master/Patch-Magento_CatalogInventory-M2.2.0-2.2.3-fix-update-stock-item-on-product-save.patch"
             },
             "amzn/amazon-pay-and-login-with-amazon-core-module": {
-            "Fix missing street in german orders": "https://github.com/webvisum/magento2-patches/Patch-amzn-amazon-pay-and-login-with-amazon-core-module.patch"
+            "Fix missing street in german orders": "https://raw.githubusercontent.com/webvisum/magento2-patches/master/Patch-amzn-amazon-pay-and-login-with-amazon-core-module.patch
             }
         }
     }
